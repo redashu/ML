@@ -17,3 +17,17 @@ labels=["apple","apple","orange","orange"]
 clf=tree.DecisionTreeClassifier()
 clf=clf.fit(features,labels)
 print  clf.predict([[145,0]])
+
+
+"""
+THis is supervised based approach by using ML and kind of method known as 
+CLassifier method .
+
+These specail type of problems that can be solved by Classification 
+like : 
+1.  To detect mail is a SPAM or NOT 
+2.  Sports and normal car
+3.  Difference between apple and orange 
+"""
+
+
