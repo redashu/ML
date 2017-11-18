@@ -10,8 +10,8 @@ values = """
 
 headers = {
   'Content-Type': 'application/json',
-  'app_id': '9180abf6',
-  'app_key': 'b554aa700d5fc902c9ed825b02c99654'
+  'app_id': 'app id ',
+  'app_key': 'app key'
 }
 request = Request('https://api.kairos.com/recognize', data=values, headers=headers)
 
