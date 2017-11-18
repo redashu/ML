@@ -10,8 +10,8 @@ values = """
 
 headers = {
   'Content-Type': 'application/json',
-  'app_id': '9180abf6',
-  'app_key': 'b554aa700d5fc902c9ed825b02c99654'
+  'app_id': 'your app id from karios',
+  'app_key': 'your app key from kairos '
 }
 request = Request('https://api.kairos.com/enroll', data=values, headers=headers)
 
