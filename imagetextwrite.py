@@ -6,6 +6,7 @@ import time
 
 data=cv2.imread('dog.jpg',1)
 font=cv2.FONT_HERSHEY_SIMPLEX
+#            image  , text   , starting point ,font,font_size,color,thickness,better_look 
 cv2.putText(data,'Hello BLU',(100,400),font,2,(255,255,0),10,cv2.LINE_AA)
 # note BGR notation
 # Blue (255,0,0)
