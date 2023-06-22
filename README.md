@@ -5,4 +5,4 @@ Data science with Opencv and Realtime object detection
 Dataflow with Chatboat Ideas implementing personal assitance
 Few work flow of NLP during data modeling 
 
-#  hello DOS
+#  hello DOS s
