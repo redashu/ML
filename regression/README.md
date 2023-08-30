@@ -1,14 +1,5 @@
-### Degree in Polynomial Regression 
+## Comparing Simple | Multi & Poly linear Regression 
 
-<img src="dg.png">
-
-## poly nomial 
-
-<img src="po.png">
-
-### formula for polynomial
-
-<img src="fm.png">
-
+<img src="images/smp.png">
 
 
